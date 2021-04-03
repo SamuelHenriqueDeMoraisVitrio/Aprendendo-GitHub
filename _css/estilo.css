@@ -7,3 +7,10 @@ p{
     text-align: justify;
     text-indent: 5px;
 }
+body main#interface{
+    width: 1350px;
+    background-color: rgba(0, 0, 0, .4);
+}
+header h{
+    color: blue;
+}
